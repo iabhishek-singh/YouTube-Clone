@@ -13,16 +13,21 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-# Project Update 
+# Project Update  YouTube-Clone
 
 ##  --> Backend 
 
-### ---> Required Dependencess and Modules 
+### ---> Required Dependencies and Modules 
 
     ---> (i) npm init
     ---> (ii) npm i
     ---> (iii) npm install jsonwebtoken
     ---> (iv)  npm install cors  
+    ---> (v) npm install bcryptjs  dotenv
+    ---> (vi) npm install --save-dev nodemon
+    ---> (vii) npm install express
+    ---> (viii) npm install mongoose
+
 
 ## --> Frontend 
 
@@ -31,6 +36,7 @@ If you are developing a production application, we recommend using TypeScript wi
     ---> (i) npm create vite@latest
     ---> (ii) npm install  
     ---> (iii) npm install tailwindcss @tailwindcss/vite
+    ---> (iv)  npm install lucide-react
 
 
 # YouTube-Clone
