@@ -21,7 +21,7 @@ const appRouter = createBrowserRouter([
         element: <Login />
       },
       {
-        path:"/auth/regiter",
+        path:"/auth/register",
         element: <Regiter />
       }
 

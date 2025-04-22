@@ -27,6 +27,8 @@ If you are developing a production application, we recommend using TypeScript wi
     ---> (vi) npm install --save-dev nodemon
     ---> (vii) npm install express
     ---> (viii) npm install mongoose
+    ---> (ix)npm install multer
+
 
 
 ## --> Frontend 
@@ -37,6 +39,8 @@ If you are developing a production application, we recommend using TypeScript wi
     ---> (ii) npm install  
     ---> (iii) npm install tailwindcss @tailwindcss/vite
     ---> (iv)  npm install lucide-react
+    ---> (V)npm install animate.css --save
+
 
 
 # YouTube-Clone
