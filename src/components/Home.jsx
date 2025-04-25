@@ -25,7 +25,7 @@ function Home() {
       {/* Show a welcome message if the user is not logged in */}
       {!user && (
         <div className="mt-8 text-2xl text-center text-gray-600">
-          Welcome to YouTube Clone!
+         <p className="text-center text-gray-500 text-xl">at that moment Login for video</p><br /> Welcome to YouTube Clone!
         </div>
       )}
     </div>

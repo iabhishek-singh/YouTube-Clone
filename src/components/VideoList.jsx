@@ -39,7 +39,7 @@ function VideoList({ selectedCategory = "All", searchQuery = "" }) {
   // If no videos match the filter criteria, show a message
   if (!filteredVideos.length) {
     return (
-      <div className="p-6 text-center text-gray-500 text-xl">
+      <div className="p-2 text-center text-gray-500 text-xl">
         No videos found.
       </div>
     );
